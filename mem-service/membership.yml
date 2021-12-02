@@ -1,3 +1,7 @@
+server:
+ port: 8199
+
+
 member:
  rent:
   min: 7
